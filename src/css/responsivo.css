@@ -1,11 +1,5 @@
 @media (max-width: 768px){
-    html, body {
-        height: auto;
-        min-height: 100%;
-        overflow-x: hidden;
-        overflow-y: auto;
-    }
-
+    
 
     .conteudo .descricao  {
         position: absolute;
@@ -13,7 +7,7 @@
         left: auto;
         top: 15%;
         overflow: auto;
-        height: 100vh;
+        height: 75vh;
         padding-right: 10px;
         font-size: 2vh;
                 
